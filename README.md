@@ -14,10 +14,6 @@ Junior auto QA engineer
 
 ## 💻 Проекты
 
-- [Microblogs API](https://github.com/BogdanBratsky/microblogs) — мини-блог на Go с REST API  
-- [Интернет-магазин на Strapi 4](https://github.com/BogdanBratsky) — проект с авторизацией OTP и корзиной  
-- [Пет-проекты фронтенд] — разные SPA на Vue и Vanilla JS  
-
 > Полный список проектов можно посмотреть в [репозиториях](https://github.com/BogdanBratsky?tab=repositories)
 
 ---
