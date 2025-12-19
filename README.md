@@ -1,16 +1,41 @@
-## Hi there 👋
+# Привет! 👋 Я Богдан
 
-<!--
-**BogdanBratsky/BogdanBratsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я фронтенд- и бэкенд-разработчик, интересуюсь Go, Vue.js, DevOps и разработкой веб-приложений.  
+Люблю разбираться в архитектуре приложений и строить пет-проекты, чтобы прокачивать навыки.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Технологии и инструменты
+
+**Языки:** Go, JavaScript, Python  
+**Фронтенд:** Vue.js, HTML, CSS  
+**Бэкенд:** REST API на Go, Strapi, PostgreSQL, SQLite  
+**DevOps / Инструменты:** Docker, Docker Compose, Linux, Kubernetes (базовый уровень)  
+**Прочее:** Git, Postman, тестирование, микроблоги, интернет-магазины
+
+---
+
+## 💻 Проекты
+
+- [Microblogs API](https://github.com/BogdanBratsky/microblogs) — мини-блог на Go с REST API  
+- [Интернет-магазин на Strapi 4](https://github.com/BogdanBratsky) — проект с авторизацией OTP и корзиной  
+- [Пет-проекты фронтенд] — разные SPA на Vue и Vanilla JS  
+
+> Полный список проектов можно посмотреть в [репозиториях](https://github.com/BogdanBratsky?tab=repositories)
+
+---
+
+## 📈 GitHub статистика
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BogdanBratsky&show_icons=true&hide_border=true&theme=radical)
+
+---
+
+## 📫 Контакты
+
+- Telegram: [@BogdanBratsky](https://t.me/BogdanBratsky)  
+- Email: example@mail.com
+
+---
+
+> “Учиться, создавать и делиться знаниями — вот что движет мной.”
