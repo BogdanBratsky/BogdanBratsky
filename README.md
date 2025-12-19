@@ -30,8 +30,8 @@ Junior auto QA engineer
 
 ## 📫 Контакты
 
-- Telegram: [@BogdanBratsky](https://t.me/BogdanBratsky)  
-- Email: example@mail.com
+- Telegram: [@BogdanShalimov](https://t.me/BogdanShalimov)  
+- Email: bogdan_bogdanov.1@mail.ru
 
 ---
 
