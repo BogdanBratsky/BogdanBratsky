@@ -18,9 +18,9 @@ Backend-разработчик, пишущий на Go.
 ---
 
 ### 📈 Мой GitHub в цифрах
-![Stats](https://github-readme-stats.vercel.app/api?username=BogdanBratsky&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=BogdanBratsky&show_icons=true&cache_seconds=60)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanBratsky&layout=compact&langs_count=8&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanBratsky&layout=compact&cache_seconds=60)
 
 ![Streak](https://streak-stats.demolab.com?user=BogdanBratsky&hide_border=true)
 
