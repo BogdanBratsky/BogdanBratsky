@@ -1,27 +1,28 @@
----
-## 🛠 Технологии и инструменты
+# Всем здрасьте, меня зовут Богдан 👋
 
-**Языки:** Python, Go, JavaScript (Vue.js)
-**Бэкенд:** REST API на Go, PostgreSQL  
-**Прочее:** Git, Postman, Docker, Docker-Compose, Linux
+Backend-разработчик, пишущий на Go.
 
 ---
 
-## 💻 Проекты
-
-> Полный список проектов можно посмотреть в [репозиториях](https://github.com/BogdanBratsky?tab=repositories)
-
----
-
-## 📈 GitHub статистика
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BogdanBratsky&show_icons=true&hide_border=true&theme=radical)
+### 🛠 Навыки
+![Go](https://shields.io) ![SQL](https://shields.io) ![Git](https://shields.io) ![Linux](https://shields.io) ![Docker](https://shields.io) ![Nuxt](https://shields.io) ![PostgreSQL](https://shields.io)
 
 ---
 
-## 📫 Контакты
-
-- Telegram: [@BogdanShalimov](https://t.me/BogdanShalimov)  
-- Email: bogdan_bogdanov.1@mail.ru
+### 🚀 Проекты
+В основном фокусируюсь на бэкенде.
+👉 **[Посмотреть все репозитории](https://github.com/BogdanBratsky?tab=repositories)**
 
 ---
+
+### 📈 Мой GitHub в цифрах
+<p align="left">
+  <img src="https://vercel.app" alt="Stats" height="150" />
+  <img src="https://vercel.app" alt="Languages" height="150" />
+</p>
+
+---
+
+### 📫 Как со мной связаться
+* **Telegram:** [@BogdanShalimov](https://t.me/BogdanShalimov)
+* **Email:** [bogdan_bogdanov.1@mail.ru](mailto:bogdan_bogdanov.1@mail.ru)
