@@ -5,7 +5,15 @@ Backend-разработчик, пишущий на Go.
 ---
 
 ### 🛠 Навыки
-![Go](https://shields.io) ![PostgreSQL](https://shields.io) ![Docker](https://shields.io) ![Linux](https://shields.io) ![Git](https://shields.io) ![Nuxt.js](https://shields.io) ![SQL](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="Go" />
+  <img src="https://shields.io" alt="PostgreSQL" />
+  <img src="https://shields.io" alt="Docker" />
+  <img src="https://shields.io" alt="Linux" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="Nuxt" />
+  <img src="https://shields.io" alt="SQL" />
+</p>
 
 ---
 
