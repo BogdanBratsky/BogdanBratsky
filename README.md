@@ -5,9 +5,9 @@ Backend-разработчик, пишущий на Go.
 ---
 
 ### 🛠 Навыки
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,postgres,docker,linux,git,vue,nuxt,js,ts&theme=dark" />
+</p>
 
 ---
 
@@ -19,8 +19,8 @@ Backend-разработчик, пишущий на Go.
 
 ### 📈 Мой GitHub в цифрах
 <p align="left">
-  <img src="https://vercel.app" alt="Stats" height="150" />
-  <img src="https://vercel.app" alt="Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BogdanBratsky&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanBratsky&layout=compact&theme=radical" />
 </p>
 
 ---
