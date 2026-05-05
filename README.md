@@ -21,11 +21,9 @@ Backend-разработчик, пишущий на Go.
 * **Telegram:** [@BogdanShalimov](https://t.me/BogdanShalimov)
 * **Email:** [bogdan_bogdanov.1@mail.ru](mailto:bogdan_bogdanov.1@mail.ru)
 
-### 📈 Мой GitHub в цифрах
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BogdanBratsky&show_icons=true)
+---
 
+### 📈 Top Langs
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BogdanBratsky&layout=compact)
-
-![Streak](https://streak-stats.demolab.com?user=BogdanBratsky&hide_border=true)
 
 ---
