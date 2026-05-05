@@ -17,6 +17,10 @@ Backend-разработчик, пишущий на Go.
 
 ---
 
+### 📫 Как со мной связаться
+* **Telegram:** [@BogdanShalimov](https://t.me/BogdanShalimov)
+* **Email:** [bogdan_bogdanov.1@mail.ru](mailto:bogdan_bogdanov.1@mail.ru)
+
 ### 📈 Мой GitHub в цифрах
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BogdanBratsky&show_icons=true)
 
@@ -25,7 +29,3 @@ Backend-разработчик, пишущий на Go.
 ![Streak](https://streak-stats.demolab.com?user=BogdanBratsky&hide_border=true)
 
 ---
-
-### 📫 Как со мной связаться
-* **Telegram:** [@BogdanShalimov](https://t.me/BogdanShalimov)
-* **Email:** [bogdan_bogdanov.1@mail.ru](mailto:bogdan_bogdanov.1@mail.ru)
