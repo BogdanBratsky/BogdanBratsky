@@ -6,7 +6,7 @@ Backend-разработчик, пишущий на Go.
 
 ### 🛠 Навыки
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,postgres,docker,linux,git,vue,nuxt,js,ts&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,postgres,docker,linux,git,nuxt&theme=dark" />
 </p>
 
 ---
